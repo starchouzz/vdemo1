@@ -45,6 +45,7 @@
    overflow: auto
    position: relative
    height: 100%
+   column: 40%
    flex: 1
    .list
     width: 100%
